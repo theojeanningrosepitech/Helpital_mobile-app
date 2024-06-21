@@ -1,0 +1,10 @@
+{
+  "login": "arthur.petit",
+  "password": "password",
+  "user_role": 1,
+  "avatar": 1,
+  "firstname": "Arthur",
+  "lastname": "Petit",
+  "phone": "0654321001",
+  "email": "arthur.petit@epitech.eu"
+}

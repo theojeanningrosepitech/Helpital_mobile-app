@@ -1,0 +1,55 @@
+name: helpital_mobile_app
+description: Helpital Mobile Application project
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  json_annotation: ^4.0.1
+  shared_preferences: ^2.0.5
+  flutter_staggered_animations: "^0.1.2"
+  qr_flutter: ^4.0.0
+  qr_code_scanner: ^0.6.1
+  cupertino_icons: ^1.0.2
+  intl: ^0.15.7
+  flutter_launcher_icons: "^0.9.0"
+  device_info_plus: ^3.0.1
+ ## dartdoc: ^6.0.1
+  doc_widget: ^0.2.9
+
+  ## To check
+  file_picker: ^3.0.4
+  open_file: ^3.2.1
+  ## to remove
+  hive: ^2.1.0
+  hive_flutter: ^1.1.0
+  ############
+  provider: ^5.0.0
+  flutter_cached_pdfview: ^0.4.1
+
+flutter_icons:
+  image_path: "assets/helpital_logo_heart.png"
+  android: true
+  ios: true
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+    - assets/helpital_logo_heart.png
+    - assets/animation_helpital.gif
+    - assets/h_logo1.png
+    - assets/h_logo2.png
+    - lib/Data/roomsDimensionData.json
+    - lib/Data/waitingRoom.json
+    - lib/Data/planningEvent.json
+    - assets/RobotHelpital.gif
+  uses-material-design: true

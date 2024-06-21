@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Salle d'attente 1",
+    "service_id": 4,
+    "floor": 1,
+    "capacity": 15,
+    "firstname": "Axel",
+    "lastname": "Bertin"
+  },
+  {
+    "title": "Salle d'attente 2",
+    "service_id": 4,
+    "floor": 1,
+    "capacity": 15,
+    "firstname": "Axel",
+    "lastname": "Bertin"
+  },
+  {
+    "title": "Salle d'attente 3",
+    "service_id": 4,
+    "floor": 1,
+    "capacity": 15,
+    "firstname": "Axel",
+    "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 4",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  },
+  {
+    "title": "Salle d'attente 5",
+    "service_id": 4,
+    "floor": 1,
+    "capacity": 15,
+    "firstname": "Axel",
+    "lastname": "Bertin"
+  },
+  {
+    "title": "Salle d'attente 6",
+    "service_id": 4,
+    "floor": 1,
+    "capacity": 15,
+    "firstname": "Axel",
+    "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 7",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 8",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 9",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 10",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  },
+  {
+  "title": "Salle d'attente 11",
+  "service_id": 4,
+  "floor": 1,
+  "capacity": 15,
+  "firstname": "Axel",
+  "lastname": "Bertin"
+  }
+]

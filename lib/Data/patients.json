@@ -1,0 +1,45 @@
+[
+{
+  "id":1,
+  "firstname":"Axel",
+  "lastname":"Bertin",
+  "birthdate":"2000-07-19T12:00:00.000Z",
+  "ss_number":"0123456789012",
+  "room_id":1,
+  "room":{
+    "id":1,
+    "title":"Bloc opératoire",
+    "type":3,
+    "service_id":2,
+    "floor":-1,
+    "capacity":1,
+    "building_id":null,
+    "position_x":0,
+    "position_y":0,
+    "corners":"-5,-8;5,-8;5,5;-5,5",
+    "supervisor":2
+  }
+},
+
+{
+  "id":1,
+  "firstname":"Axel",
+  "lastname":"Bertin",
+  "birthdate":"2000-07-19T12:00:00.000Z",
+  "ss_number":"0123456789012",
+  "room_id":1,
+  "room":
+  {
+    "id":1,
+    "title":"Bloc opératoire",
+    "type":3,
+    "service_id":2,"floor":-1,
+    "capacity":1,
+    "building_id":null,
+    "position_x":0,
+    "position_y":0,
+    "corners":"-5,-8;5,-8;5,5;-5,5",
+    "supervisor":2
+  }
+}
+  ]

@@ -1,0 +1,57 @@
+[
+  {
+  "title": "Opération",
+  "description": "Opération du fois en urgence",
+  "creation_date": "2022-11-25 22:53:13.314958",
+  "user_id": 1,
+  "begin_at": "2022-03-10 09:00:00.000000",
+  "end_at": "2022-03-10 10:00:00.000000",
+  "duration": 3600
+  },
+
+  {
+    "title": "Radio des poumons",
+    "description": "Une radio des poumons est demandée par le médecin traitant",
+    "creation_date": "2022-03-20 22:53:13.353990",
+    "user_id": 1,
+    "begin_at": "2022-03-10 14:30:00.000000",
+    "end_at": "2022-03-10 15:30:00.000000",
+    "duration": 3600
+  },
+  {
+    "title": "Analyse urine",
+    "description": "Analyse de l urine",
+    "creation_date": "2022-11-25 22:53:13.393052",
+    "user_id": 1,
+    "begin_at": "2022-03-10 10:00:00.000000",
+    "end_at": "2022-03-10 11:00:00.000000",
+    "duration": 7200
+  },
+  {
+    "title": "Analyse de sang",
+    "description": "Prise de sang",
+    "creation_date": "2022-02-25 22:53:13.432404",
+    "user_id": 1,
+    "begin_at": "2022-03-11 16:00:00.000000",
+    "end_at": "2022-03-11 16:00:00.000000",
+    "duration": 1000
+  },
+  {
+    "title": "Opération",
+    "description": "Opération de l appendice",
+    "creation_date": "2022-02-25 22:53:13.471096",
+    "user_id": 1,
+    "begin_at": "2022-03-11 14:00:00.000000",
+    "end_at": "2022-03-11 15:00:00.000000",
+    "duration": 14400
+  },
+  {
+    "title": "Opération",
+    "description": "Opération de la hanche",
+    "creation_date": "2022-02-25 22:53:13.499679",
+    "user_id": 1,
+    "begin_at": "2022-03-11 11:00:00.000000",
+    "end_at": "2022-03-11 11:30:00.000000",
+    "duration": 1800
+  }
+]

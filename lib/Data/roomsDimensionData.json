@@ -1,0 +1,123 @@
+[
+
+  {
+    "title": "Bloc opératoire",
+    "type": 3,
+    "service_id": 2,
+    "floor": -1,
+    "supervisor": 2,
+    "capacity": 1,
+    "position_x": -5,
+    "position_y": -8,
+    "size_x": 10,
+    "size_y": 15
+  },
+  {
+    "title": "Cagibi",
+    "type": 1,
+    "service_id": 4,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 1,
+    "position_x": -5,
+    "position_y": -3,
+    "size_x": 3,
+    "size_y": 2
+  },
+  {
+    "title": "R1",
+    "type": 2,
+    "service_id": 5,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 3,
+    "position_x": -3,
+    "position_y": -5,
+    "size_x": 3,
+    "size_y": 4
+  },
+  {
+    "title": "R2",
+    "type": 2,
+    "service_id": 4,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 3,
+    "position_x": -3,
+    "position_y": 1,
+    "size_x": 3,
+    "size_y": 4
+  },
+  {
+    "title": "R3",
+    "type": 2,
+    "service_id": 4,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 2,
+    "position_x": 0,
+    "position_y": -5,
+    "size_x": 3,
+    "size_y": 4
+  },
+  {
+    "title": "Couloir",
+    "type": 1,
+    "service_id": 4,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 0,
+    "position_x": -10,
+    "position_y": -1,
+    "size_x": 20,
+    "size_y": 2
+  },
+  {
+    "title": "Couloir 2",
+    "type": 1,
+    "service_id": 4,
+    "floor": 1,
+    "supervisor": 2,
+    "capacity": 0,
+    "position_x": 10,
+    "position_y": -1,
+    "size_x": 20,
+    "size_y": 2
+  },
+  {
+    "title": "A1",
+    "type": 2,
+    "service_id": 6,
+    "floor": 2,
+    "supervisor": 2,
+    "capacity": 2,
+    "position_x": -3,
+    "position_y": -5,
+    "size_x": 3,
+    "size_y": 4
+  },
+  {
+    "title": "A2",
+    "type": 2,
+    "service_id": 6,
+    "floor": 2,
+    "supervisor": 2,
+    "capacity": 2,
+    "position_x": -3,
+    "position_y": 1,
+    "size_x": 3,
+    "size_y": 4
+  },
+  {
+    "title": "A3",
+    "type": 2,
+    "service_id": 6,
+    "floor": 2,
+    "supervisor": 2,
+    "capacity": 2,
+    "position_x": 0,
+    "position_y": -5,
+    "size_x": 3,
+    "size_y": 4
+  }
+]
